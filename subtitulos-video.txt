@@ -1,0 +1,17 @@
+Subtitulos / transcripcion del video de defensa tecnica
+
+Proyecto: CanchaPro Architecture
+Asignatura: Desarrollo FullStack I - DSY1103
+Integrantes: Caden Alexander Nieto Gonzalez y Sebastian De La Fuente
+
+Este archivo sera actualizado con la transcripcion del video explicativo de defensa tecnica.
+
+El video debe evidenciar:
+- Puesta en marcha del sistema.
+- Ejecucion sin Docker.
+- Uso de Eureka Server.
+- Uso de API Gateway.
+- Microservicios principales.
+- Pruebas unitarias.
+- Swagger/OpenAPI.
+- Aporte tecnico individual.
