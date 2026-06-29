@@ -10,10 +10,10 @@ CanchaPro es un sistema de gestion de reservas de canchas deportivas desarrollad
 
 | Recurso                       | Enlace                                  |
 | ----------------------------- | --------------------------------------- |
-| Version ejecutable sin Docker | Pendiente - agregar link Google Drive   |
+| Version ejecutable sin Docker | https://drive.google.com/file/d/1qMaLjZfhQrqIoAUqUyzTTPQL-yb394uu/view?usp=sharing   |
 | Version con Docker            | Pendiente para Examen Transversal       |
 | Video defensa tecnica         | Pendiente - agregar link del video      |
-| Repositorio GitHub            | Pendiente - agregar URL del repositorio |
+| Repositorio GitHub            | https://github.com/Cadennnnnn/canchapro-architecture |
 
 ---
 
@@ -358,21 +358,21 @@ Esta evidencia incluye:
 
 ```text
 CanchaPro(FINAL)
-├── eureka-server
-├── api-gateway
-├── auth-service
-├── ms-usuarios
-├── ms-canchas
-├── ms-disponibilidad
-├── ms-reservas
-├── ms-pagos
-├── ms-notificaciones
-├── ms-calificaciones
-├── ms-reportes
-├── docs
-├── pom.xml
-├── README.md
-└── .gitignore
+â”œâ”€â”€ eureka-server
+â”œâ”€â”€ api-gateway
+â”œâ”€â”€ auth-service
+â”œâ”€â”€ ms-usuarios
+â”œâ”€â”€ ms-canchas
+â”œâ”€â”€ ms-disponibilidad
+â”œâ”€â”€ ms-reservas
+â”œâ”€â”€ ms-pagos
+â”œâ”€â”€ ms-notificaciones
+â”œâ”€â”€ ms-calificaciones
+â”œâ”€â”€ ms-reportes
+â”œâ”€â”€ docs
+â”œâ”€â”€ pom.xml
+â”œâ”€â”€ README.md
+â””â”€â”€ .gitignore
 ```
 
 ---
